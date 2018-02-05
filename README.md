@@ -5,6 +5,7 @@ Slok gaat Heverleebos tekenen in OCAD.
 Contributors: Toon Melis, Simon Krekels
 
 ## To Do:
+- Wegen zuid-oost (rond de poggio)
 - Vegetatie
 - Open plekken
 - Reliëf
