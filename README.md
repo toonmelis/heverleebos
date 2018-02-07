@@ -8,7 +8,11 @@ Contributors: Toon Melis, Simon Krekels, Warre De Cuyper
 - Wegen zuid-oost (rond de poggio)
 - Vegetatie
 - Open plekken
-- Reliëf
 - Gebouwen
 - Water
 - Verhardde ondergrond (Parking/wegverbreding op de naamse)
+- Noord van de snelweg
+
+## Done:
+
+- Hoogtelijnen
