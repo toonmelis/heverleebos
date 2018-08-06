@@ -2,7 +2,7 @@
 
 
 Slok gaat Heverleebos tekenen in OCAD.
-Contributors: Toon Melis, Simon Krekels, Warre De Cuyper
+Contributors: Toon Melis, Simon Krekels, Warre De Cuyper, Ems Des mul
 
 ## To Do:
 
