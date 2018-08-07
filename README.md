@@ -17,3 +17,6 @@ Contributors: Toon Melis, Simon Krekels, Warre De Cuyper, Ems De Smul
 - Hoogtelijnen
 - Wegen zuid-west (rond de poggio)
 - Water
+
+
+![text](https://github.com/toonmelis/heverleebos/blob/master/Vakkenverdeling.jpg)
