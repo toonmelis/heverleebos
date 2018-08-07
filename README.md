@@ -8,14 +8,15 @@ Contributors: Toon Melis, Simon Krekels, Warre De Cuyper, Ems De Smul
 
 - Vegetatie
 - Open plekken
-- Gebouwen
+- Objecten
 - Verhardde ondergrond (Parking/wegverbreding op de naamse)
 - Noord van de snelweg
 
 ## Done:
 
 - Hoogtelijnen
-- Wegen zuid-west (rond de poggio)
+- Wegen
+- Gebouwen
 - Water
 
 ## Verdeling:
